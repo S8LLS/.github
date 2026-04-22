@@ -27,8 +27,8 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=S8LLS&label=SIGNAL%20INTERCEPTED&color=000000&style=for-the-badge&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/github/followers/S8LLS?label=OPERATORS&style=for-the-badge&color=000000&labelColor=FFFFFF&logo=github&logoColor=000000"/>
-<img src="https://img.shields.io/github/stars/S8LLS?label=ASSETS&style=for-the-badge&color=000000&labelColor=FFFFFF&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/ACCESS-BY%20INVITATION-000000?style=for-the-badge&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VAULT-PRIVATE-000000?style=for-the-badge&labelColor=FFFFFF"/>
 
 </div>
 

@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://s8lls.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=We+don't+build+products.+We+build+the+machine.;Visionary.+Tactical.+Autonomous.;Scaling+businesses+at+the+speed+of+thought." alt="Doctrine"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=We+don't+build+products.+We+build+the+machine.;Visionary.+Tactical.+Autonomous.;Capital+at+compute+speed." alt="Doctrine"/>
 </a>
 
 <br/>
@@ -42,11 +42,11 @@
 
 ## `> IDENTITY.sys`
 
-`FUTURIST` &nbsp;—&nbsp; We design systems the market hasn't priced in yet.
-`VISIONARY` &nbsp;—&nbsp; We operate on a 10-year horizon with weekly execution.
-`ARCHITECT` &nbsp;—&nbsp; We build autonomous infrastructure, not products.
-`OPERATOR` &nbsp;—&nbsp; We scale businesses without scaling headcount.
-`SOVEREIGN` &nbsp;—&nbsp; We answer to outcomes, not opinions.
+`FUTURIST.` Systems the market hasn't priced in.
+`VISIONARY.` 10-year horizon. Weekly execution.
+`ARCHITECT.` Autonomous infrastructure. Not products.
+`OPERATOR.` Scale without headcount.
+`SOVEREIGN.` Outcomes. Not opinions.
 
 <br/>
 
@@ -58,11 +58,11 @@
 
 ## `> MISSION.brief`
 
-`OBJECTIVE` &nbsp;—&nbsp; Deploy autonomous systems that compound capital.
-`METHOD` &nbsp;—&nbsp; AI agents, financial engineering, global infrastructure.
-`TARGET` &nbsp;—&nbsp; Businesses that should scale to nine figures and can't yet.
-`OUTPUT` &nbsp;—&nbsp; Cashflow machines that run while operators sleep.
-`DOCTRINE` &nbsp;—&nbsp; Automate the machine. Let humans do judgment.
+`OBJECTIVE.` Deploy autonomous systems that compound capital.
+`METHOD.` AI agents. Financial engineering. Global infrastructure.
+`TARGET.` Businesses that should scale to nine figures and haven't.
+`OUTPUT.` Cashflow machines that run while operators sleep.
+`DOCTRINE.` Automate the machine. Leave judgment to humans.
 
 <br/>
 
@@ -126,10 +126,10 @@
 
 ## `> ARSENAL.stack`
 
-`INTELLIGENCE` &nbsp;—&nbsp; AI agents, LLM orchestration, predictive ML.
-`CAPITAL` &nbsp;—&nbsp; On-chain routing, algorithmic trading, treasury automation.
-`INFRASTRUCTURE` &nbsp;—&nbsp; Multi-cloud, Kubernetes, edge compute.
-`SIGNAL` &nbsp;—&nbsp; Event streams, market intel, vector memory.
+`INTELLIGENCE.` AI agents. LLM orchestration. Predictive ML.
+`CAPITAL.` On-chain routing. Algorithmic trading. Treasury automation.
+`INFRASTRUCTURE.` Multi-cloud. Kubernetes. Edge compute.
+`SIGNAL.` Event streams. Market intel. Vector memory.
 
 <br/>
 
@@ -160,11 +160,11 @@
 
 ## `> PRINCIPLES.core`
 
-`SIMPLICITY` &nbsp;—&nbsp; One system that replaces ten.
-`AUTONOMY` &nbsp;—&nbsp; Humans set direction. Machines execute.
-`SPEED` &nbsp;—&nbsp; Ship decisions in milliseconds, not quarters.
-`LEVERAGE` &nbsp;—&nbsp; Every line of code compounds across the empire.
-`INEVITABILITY` &nbsp;—&nbsp; Build what the future requires, before it asks.
+`SIMPLICITY.` One system replaces ten.
+`AUTONOMY.` Humans direct. Machines execute.
+`SPEED.` Milliseconds, not quarters.
+`LEVERAGE.` Every system compounds across the empire.
+`INEVITABILITY.` Build what the future requires, before it asks.
 
 <br/>
 
@@ -244,8 +244,8 @@
 
 ## `> OPERATIONS.command`
 
-`S8LLS-Official` &nbsp;—&nbsp; Organization. Live deployments. Production systems.
-`S8LLS` &nbsp;—&nbsp; Operator. Research. Prototypes. Command line.
+`S8LLS-Official.` Organization. Live deployments. Production systems.
+`S8LLS.` Operator. Research. Prototypes. Command line.
 
 <br/>
 
@@ -266,9 +266,9 @@
 
 ## `> TRANSMIT.channel`
 
-`INBOUND` &nbsp;—&nbsp; For serious operators and capital only.
-`RESPONSE` &nbsp;—&nbsp; Within 24h or never.
-`FORMAT` &nbsp;—&nbsp; Thesis first. Pitch second. Small talk: zero.
+`INBOUND.` Serious operators and capital only.
+`RESPONSE.` Within 24h or never.
+`FORMAT.` Thesis first. Pitch second. Small talk: zero.
 
 <br/>
 
@@ -293,11 +293,11 @@
 
 <br/>
 
-**`AUTOMATE`** &nbsp;—&nbsp; the machine.
+**`AUTOMATE.`** THE MACHINE.
 
-**`ORCHESTRATE`** &nbsp;—&nbsp; the empire.
+**`ORCHESTRATE.`** THE EMPIRE.
 
-**`COMPOUND`** &nbsp;—&nbsp; the future.
+**`COMPOUND.`** THE FUTURE.
 
 <br/><br/>
 

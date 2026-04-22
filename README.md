@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://s8lls.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=We+don't+build+products.+We+build+the+machine.;Visionary.+Tactical.+Autonomous.;Capital+at+compute+speed." alt="Doctrine"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=We+don't+build+products.+We+build+the+machine.;Visionary.+Tactical.+Autonomous.;600+portals.+18%2C000+operators.+One+system." alt="Doctrine"/>
 </a>
 
 <br/>
@@ -59,7 +59,7 @@
 ## `> MISSION.brief`
 
 `OBJECTIVE.` Deploy autonomous systems that compound capital.
-`METHOD.` AI agents. Financial engineering. Global infrastructure.
+`METHOD.` Owned media. Human execution. AI orchestration.
 `TARGET.` Businesses that should scale to nine figures and haven't.
 `OUTPUT.` Cashflow machines that run while operators sleep.
 `DOCTRINE.` Automate the machine. Leave judgment to humans.
@@ -74,25 +74,27 @@
 
 ## `> LIVE.case`
 
-<br/>
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%E2%96%B8+LOADING+PROOF+LAYER;%E2%96%B8+3+NODES+VERIFIED;%E2%96%B8+STACK+OPERATIONAL" alt="scan"/>
+
+<br/>
 
 <table>
 <tr>
-<td align="left" width="35%"><b>JOBBUJ NETWORK</b></td>
-<td align="center" width="20%"><code>5M+ users</code></td>
-<td align="left" width="45%">Distributed community driving traffic, leads, and conversions across multiple verticals.</td>
+<td align="left" width="30%"><b>JOBBUJ NETWORK</b></td>
+<td align="center" width="32%"><code>600+ portals · 20M visits/mo</code></td>
+<td align="left" width="38%">Owned media. Intent signal routed into sales engine.</td>
 </tr>
 <tr>
 <td align="left"><b>S8LLS Sales Engine</b></td>
-<td align="center"><code>active</code></td>
-<td align="left">Structured sales execution integrating marketers, field workers, call center, and closers.</td>
+<td align="center"><code>18,000 specialists · active</code></td>
+<td align="left">Performance network. Field. Call. Close. Commission only.</td>
 </tr>
 <tr>
 <td align="left"><b>Jarvin</b></td>
 <td align="center"><code>in development</code></td>
-<td align="left">Autonomous management layer orchestrating operations, data, and decision-making.</td>
+<td align="left">Autonomous layer. Replaces coordination. Scales the engine.</td>
 </tr>
 </table>
 
@@ -103,38 +105,48 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      INTEGRATION LAYER                          -->
+<!--                       DISTRIBUTION LAYER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> INTEGRATION.layer`
-
-S8LLS operates between the layers. Not a product. The connective tissue.
-Data, models, capital, logistics. Unified into one decision surface.
-
-<br/>
+## `> DISTRIBUTION.layer`
 
 <div align="center">
-
-```
-  INPUTS             CORE              OUTPUTS
-
-  DATA      →                    →    CAPITAL
-  MODELS    →                    →    LOGISTICS
-  SIGNAL    →    S8LLS CORE      →    EXECUTION
-  MARKET    →                    →    TREASURY
-  [...]     →                    →    [...]
-
-       autonomous routing  //  zero friction
-```
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%E2%96%B8+ACCESSING+OWNED+MEDIA+NETWORK;%E2%96%B8+600+PORTALS+DISCOVERED;%E2%96%B8+20M+VISITS+STREAMING+INBOUND" alt="scan"/>
 </div>
 
 <br/>
 
-`UPSTREAM.` Data. Models. Market signal.
-`CORE.` S8LLS. Autonomous routing between domains.
-`DOWNSTREAM.` Capital. Logistics. Execution. Treasury.
-`CLASSIFIED.` Additional layers withheld by design.
+Owned media infrastructure. Built over 20 years. Not rented traffic. Owned signal.
+
+`OWNED PORTALS.` 600+ vertical domains under S8LLS control.
+`MONTHLY REACH.` 20M visits. Zero paid acquisition.
+`SIGNAL TYPE.` Intent data. Category-specific. High conversion.
+`ROUTING.` Traffic feeds directly into S8LLS Sales Engine.
+`MOAT.` 20 years of build. Cannot be replicated overnight.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HUMAN INFRASTRUCTURE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> HUMAN.infrastructure`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%E2%96%B8+SCANNING+EXECUTION+NETWORK;%E2%96%B8+18%2C000+SPECIALISTS+ONLINE;%E2%96%B8+COMMISSION+MODEL+ACTIVE" alt="scan"/>
+</div>
+
+<br/>
+
+Execution layer. 18,000 active specialists. Zero fixed cost.
+
+`NETWORK SIZE.` 18,000+ active specialists.
+`COVERAGE.` Field workers. Call center. Closers. Sector directors.
+`VERTICALS.` Construction. OZE. Supplements. Logistics. Sport. Export.
+`DAILY REACH.` 200+ locations visited per day.
+`MODEL.` Commission-based. Zero fixed cost. Pure performance.
 
 <br/>
 
@@ -147,7 +159,7 @@ Data, models, capital, logistics. Unified into one decision surface.
 ## `> SALES_LOOP.architecture`
 
 Deep-dive into the **S8LLS Sales Engine**. The active node of the stack.
-Minimal system for structuring and automating sales execution.
+How signal becomes revenue.
 
 <br/>
 
@@ -164,7 +176,7 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 <br/>
 
-`LEAD INTAKE.` Forms. Scraping. Distributed network feeds.
+`LEAD INTAKE.` Portals. Scraping. Distributed network feeds.
 `QUALIFICATION.` Call center filtering and scoring.
 `EXECUTION.` Sales team closes qualified signal.
 `FEEDBACK LOOP.` Outcomes fed back into scoring and intake.
@@ -172,9 +184,79 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 <br/>
 
-`NOW.` Structured execution across human operators.
-`NEXT.` Full autonomy layer (Jarvin integration).
-`HORIZON.` Self-optimizing loop with zero manual intervention.
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     JARVIN ORCHESTRATION                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> JARVIN.orchestration`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%E2%96%B8+INITIALIZING+JARVIN;%E2%96%B8+LOADING+ORCHESTRATION+MATRIX;%E2%96%B8+STATUS+%3A%3A+IN+DEVELOPMENT" alt="init"/>
+</div>
+
+<br/>
+
+Autonomous orchestration layer. Currently in development.
+
+`INPUT.` Lead flow from 600 Jobbuj portals.
+`INPUT.` Conversion data from 18,000 field operators.
+`INPUT.` Sector performance across 10+ verticals.
+
+<br/>
+
+`OUTPUT.` Automated lead scoring and routing.
+`OUTPUT.` Commission optimization in real time.
+`OUTPUT.` Sector allocation without human coordination.
+
+<br/>
+
+`STATUS.` Human-in-loop now. Autonomous by 2026.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      INTEGRATION LAYER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> INTEGRATION.layer`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%E2%96%B8+MAPPING+DECISION+SURFACE;%E2%96%B8+LAYERS+CONVERGING;%E2%96%B8+ROUTING+AUTONOMOUS" alt="map"/>
+</div>
+
+<br/>
+
+S8LLS operates between the layers. Not a product. The connective tissue.
+Portals, network, capital, logistics. Unified into one decision surface.
+
+<br/>
+
+<div align="center">
+
+```
+  INPUTS             CORE              OUTPUTS
+
+  PORTALS   →                    →    LEADS
+  NETWORK   →                    →    CONVERSIONS
+  SIGNAL    →    S8LLS CORE      →    EXECUTION
+  SECTORS   →                    →    OPTIMIZATION
+  [...]     →                    →    [...]
+
+       autonomous routing  //  zero friction
+```
+
+</div>
+
+<br/>
+
+`UPSTREAM.` Portals. Network. Market signal. Sector data.
+`CORE.` S8LLS. Autonomous routing between domains.
+`DOWNSTREAM.` Leads. Conversions. Execution. Optimization.
+`CLASSIFIED.` Additional layers withheld by design.
 
 <br/>
 
@@ -186,16 +268,18 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 ## `> SIGNAL.metrics`
 
-`LEADS PROCESSED.` 10k+ monthly.
-`CONVERSION LOOPS.` Active.
-`NETWORK REACH.` 5M+ distributed users.
+`OWNED PORTALS.` 600+.
+`MONTHLY VISITS.` 20M+.
+`NETWORK SPECIALISTS.` 18,000+.
+`VERTICALS COVERED.` 10+.
+`PAID ACQUISITION.` Zero.
 
 <br/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CAPABILITIES                           -->
+<!--                         CAPABILITIES                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `> CAPABILITIES.matrix`
@@ -252,10 +336,11 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 ## `> ARSENAL.stack`
 
-`INTELLIGENCE.` AI agents. LLM orchestration. Predictive ML.
-`CAPITAL.` On-chain routing. Algorithmic trading. Treasury automation.
-`INFRASTRUCTURE.` Multi-cloud. Kubernetes. Edge compute.
-`SIGNAL.` Event streams. Market intel. Vector memory.
+`SIGNAL LAYER (JOBBUJ).` Scraping. Event streams. Vector memory.
+`EXECUTION LAYER (SALES ENGINE).` Real-time scoring. Call routing.
+`ORCHESTRATION LAYER (JARVIN).` AI agents. LLM orchestration. Predictive ML.
+`CAPITAL LAYER.` On-chain routing. Algorithmic trading. Treasury automation.
+`INFRASTRUCTURE LAYER.` Multi-cloud. Kubernetes. Edge compute.
 
 <br/>
 
@@ -426,6 +511,10 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 **`ORCHESTRATE.`** THE EMPIRE.
 
 **`COMPOUND.`** THE FUTURE.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=%2F%2F+END+OF+TRANSMISSION+%2F%2F;%2F%2F+SIGNAL+OUT+%2F%2F;%2F%2F+SEE+YOU+INSIDE+THE+PERIMETER+%2F%2F" alt="transmission"/>
 
 <br/><br/>
 

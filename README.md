@@ -116,17 +116,15 @@ Data, models, capital, logistics. Unified into one decision surface.
 <div align="center">
 
 ```
-   INPUTS                   CORE                    OUTPUTS
- ──────────              ──────────              ──────────
+  INPUTS             CORE              OUTPUTS
 
-   DATA      ──▶     ┌──────────────┐     ──▶    CAPITAL
-  MODELS     ──▶     │              │     ──▶   LOGISTICS
-  SIGNAL     ──▶     │    S8LLS     │     ──▶   EXECUTION
-  MARKET     ──▶     │     CORE     │     ──▶   TREASURY
-   [...]     ──▶     │              │     ──▶     [...]
-                     └──────────────┘
+  DATA      →                    →    CAPITAL
+  MODELS    →                    →    LOGISTICS
+  SIGNAL    →    S8LLS CORE      →    EXECUTION
+  MARKET    →                    →    TREASURY
+  [...]     →                    →    [...]
 
-              autonomous routing  //  zero friction
+       autonomous routing  //  zero friction
 ```
 
 </div>
@@ -306,7 +304,7 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 <div align="center">
 
-<img src="./pulse.svg" width="100%" alt="Operational Pulse"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%E2%97%8F+LIVE++%2F%2F++SCANNING++%2F%2F++AUTONOMOUS++%2F%2F++ROUTING;%E2%97%8F+SIGNAL+CONVERGING++%2F%2F++SYSTEM+OPERATIONAL;%E2%97%8F+PERIMETER+SECURE++%2F%2F++HORIZON+LOCKED" alt="Live Feed"/>
 
 </div>
 

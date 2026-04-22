@@ -103,6 +103,46 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      INTEGRATION LAYER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> INTEGRATION.layer`
+
+S8LLS operates between the layers. Not a product. The connective tissue.
+Data, models, capital, logistics. Unified into one decision surface.
+
+<br/>
+
+<div align="center">
+
+```
+   INPUTS                   CORE                    OUTPUTS
+ ──────────              ──────────              ──────────
+
+   DATA      ──▶     ┌──────────────┐     ──▶    CAPITAL
+  MODELS     ──▶     │              │     ──▶   LOGISTICS
+  SIGNAL     ──▶     │    S8LLS     │     ──▶   EXECUTION
+  MARKET     ──▶     │     CORE     │     ──▶   TREASURY
+   [...]     ──▶     │              │     ──▶     [...]
+                     └──────────────┘
+
+              autonomous routing  //  zero friction
+```
+
+</div>
+
+<br/>
+
+`UPSTREAM.` Data. Models. Market signal.
+`CORE.` S8LLS. Autonomous routing between domains.
+`DOWNSTREAM.` Capital. Logistics. Execution. Treasury.
+`CLASSIFIED.` Additional layers withheld by design.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     SALES LOOP ARCHITECTURE                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -268,12 +308,13 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=S8LLS&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=OPERATIONAL%20PULSE" width="100%"/>
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S8LLS&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&include_all_commits=true&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=S8LLS&theme=black&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
 </div>
+
+<br/>
+
+`PUBLIC TELEMETRY.` Pulse only.
+`DETAILED METRICS.` Disclosed inside the perimeter.
+`AUDIT RIGHTS.` Granted to operators and capital under NDA.
 
 <br/>
 

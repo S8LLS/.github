@@ -69,6 +69,54 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           LIVE CASE                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> LIVE.case`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="35%"><b>JOBBUJ NETWORK</b></td>
+<td align="center" width="20%"><code>5M+ users</code></td>
+<td align="left" width="45%">Distributed community driving traffic, leads, and conversions across multiple verticals.</td>
+</tr>
+<tr>
+<td align="left"><b>S8LLS Sales Engine</b></td>
+<td align="center"><code>active</code></td>
+<td align="left">Structured sales execution integrating marketers, field workers, call center, and closers.</td>
+</tr>
+<tr>
+<td align="left"><b>Jarvin</b></td>
+<td align="center"><code>in development</code></td>
+<td align="left">Autonomous management layer orchestrating operations, data, and decision-making.</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          SIGNAL METRICS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> SIGNAL.metrics`
+
+`LEADS PROCESSED.` 10k+ monthly.
+`CONVERSION LOOPS.` Active.
+`NETWORK REACH.` 5M+ distributed users.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         CAPABILITIES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -266,7 +314,8 @@
 
 ## `> TRANSMIT.channel`
 
-`INBOUND.` Serious operators and capital only.
+`INBOUND.` Operators, builders, capital.
+`ACCESS.` If you understand the system, you're already inside.
 `RESPONSE.` Within 24h or never.
 `FORMAT.` Thesis first. Pitch second. Small talk: zero.
 

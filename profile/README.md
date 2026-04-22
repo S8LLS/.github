@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         COMMAND BANNER                          -->
+<!--                            HERO                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=S8LLS&fontSize=120&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SPECIAL%20UNIT%20%E2%80%A2%20AUTONOMOUS%20SCALING%20COMMAND&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=S8LLS&fontSize=140&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AUTONOMOUS%20SCALING%20COMMAND&descAlignY=60&descSize=16&fontColorEnd=FFFFFF" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED DOCTRINE                        -->
+<!--                       ANIMATED DOCTRINE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+We+don't+build+products.+We+build+the+machine.;%F0%9F%8E%AF+Visionary.+Tactical.+Autonomous.;%F0%9F%8C%90+Scaling+businesses+at+the+speed+of+thought.;%F0%9F%94%92+Operational.+Sovereign.+Infinite." alt="Doctrine"/>
+<a href="https://s8lls.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=We+don't+build+products.+We+build+the+machine.;Visionary.+Tactical.+Autonomous.;Scaling+businesses+at+the+speed+of+thought." alt="Doctrine"/>
 </a>
 
 <br/>
@@ -20,18 +20,19 @@
 <!--                         STATUS BADGES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7-00F0FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-FF006E?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MODE-AUTONOMOUS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/HORIZON-2035-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-FFFFFF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-AUTONOMOUS-FFFFFF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HORIZON-2035-FFFFFF?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=S8LLS&label=SIGNAL%20INTERCEPTED&color=00F0FF&style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/S8LLS?label=OPERATORS&style=for-the-badge&color=FF006E&labelColor=0D1117&logo=github"/>
-<img src="https://img.shields.io/github/stars/S8LLS?label=ASSETS&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=S8LLS&label=SIGNAL%20INTERCEPTED&color=000000&style=for-the-badge&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/github/followers/S8LLS?label=OPERATORS&style=for-the-badge&color=000000&labelColor=FFFFFF&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/github/stars/S8LLS?label=ASSETS&style=for-the-badge&color=000000&labelColor=FFFFFF&logo=github&logoColor=000000"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -41,11 +42,13 @@
 
 ## `> IDENTITY.sys`
 
-`FUTURIST` — I design systems the market hasn't priced in yet.
-`VISIONARY` — I operate on a 10-year horizon with weekly execution.
-`ARCHITECT` — I build autonomous infrastructure, not products.
-`OPERATOR` — I scale businesses without scaling headcount.
-`SOVEREIGN` — I answer to outcomes, not opinions.
+`FUTURIST` &nbsp;—&nbsp; We design systems the market hasn't priced in yet.
+`VISIONARY` &nbsp;—&nbsp; We operate on a 10-year horizon with weekly execution.
+`ARCHITECT` &nbsp;—&nbsp; We build autonomous infrastructure, not products.
+`OPERATOR` &nbsp;—&nbsp; We scale businesses without scaling headcount.
+`SOVEREIGN` &nbsp;—&nbsp; We answer to outcomes, not opinions.
+
+<br/>
 
 ---
 
@@ -55,32 +58,65 @@
 
 ## `> MISSION.brief`
 
-`OBJECTIVE` — Deploy autonomous systems that compound capital.
-`METHOD` — AI agents + financial engineering + global infrastructure.
-`TARGET` — Businesses that should scale to nine figures and can't yet.
-`OUTPUT` — Cashflow machines that run while operators sleep.
-`DOCTRINE` — Automate the machine. Let humans do judgment.
+`OBJECTIVE` &nbsp;—&nbsp; Deploy autonomous systems that compound capital.
+`METHOD` &nbsp;—&nbsp; AI agents, financial engineering, global infrastructure.
+`TARGET` &nbsp;—&nbsp; Businesses that should scale to nine figures and can't yet.
+`OUTPUT` &nbsp;—&nbsp; Cashflow machines that run while operators sleep.
+`DOCTRINE` &nbsp;—&nbsp; Automate the machine. Let humans do judgment.
+
+<br/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CAPABILITIES                            -->
+<!--                         CAPABILITIES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `> CAPABILITIES.matrix`
 
 <div align="center">
 
-| `MODULE` | `KEYWORD` | `OUTCOME` |
-|:---|:---|:---|
-| 🧠 Neural Capital Engine | `ALLOCATE` | Capital routed by prediction, not preference. |
-| 🤖 Autonomous Revenue Ops | `MULTIPLY` | Sales loops that optimize themselves in real time. |
-| 📡 Market Signal Network | `DETECT` | Mispriced opportunity spotted before consensus. |
-| 🏛️ Empire Orchestration | `COMPOUND` | Multi-business coordination at zero friction. |
-| 🔐 Sovereign Treasury | `PROTECT` | Programmatic cashflow routing and preservation. |
-| 🌌 Vision Compiler | `EXECUTE` | Long-term theses converted into live systems. |
+<table>
+<tr>
+<th align="center">MODULE</th>
+<th align="center">KEYWORD</th>
+<th align="left">OUTCOME</th>
+</tr>
+<tr>
+<td align="center"><b>Neural Capital Engine</b></td>
+<td align="center"><code>ALLOCATE</code></td>
+<td align="left">Capital routed by prediction, not preference.</td>
+</tr>
+<tr>
+<td align="center"><b>Autonomous Revenue Ops</b></td>
+<td align="center"><code>MULTIPLY</code></td>
+<td align="left">Sales loops that optimize themselves in real time.</td>
+</tr>
+<tr>
+<td align="center"><b>Market Signal Network</b></td>
+<td align="center"><code>DETECT</code></td>
+<td align="left">Mispriced opportunity spotted before consensus.</td>
+</tr>
+<tr>
+<td align="center"><b>Empire Orchestration</b></td>
+<td align="center"><code>COMPOUND</code></td>
+<td align="left">Multi-business coordination at zero friction.</td>
+</tr>
+<tr>
+<td align="center"><b>Sovereign Treasury</b></td>
+<td align="center"><code>PROTECT</code></td>
+<td align="left">Programmatic cashflow routing and preservation.</td>
+</tr>
+<tr>
+<td align="center"><b>Vision Compiler</b></td>
+<td align="center"><code>EXECUTE</code></td>
+<td align="left">Long-term theses converted into live systems.</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -90,29 +126,47 @@
 
 ## `> ARSENAL.stack`
 
-`INTELLIGENCE` — AI agents, LLM orchestration, predictive ML.
-`CAPITAL` — On-chain routing, algorithmic trading, treasury automation.
-`INFRASTRUCTURE` — Multi-cloud, Kubernetes, edge compute.
-`SIGNAL` — Event streams, market intel, vector memory.
-
-<div align="center">
+`INTELLIGENCE` &nbsp;—&nbsp; AI agents, LLM orchestration, predictive ML.
+`CAPITAL` &nbsp;—&nbsp; On-chain routing, algorithmic trading, treasury automation.
+`INFRASTRUCTURE` &nbsp;—&nbsp; Multi-cloud, Kubernetes, edge compute.
+`SIGNAL` &nbsp;—&nbsp; Event streams, market intel, vector memory.
 
 <br/>
 
-![AI](https://img.shields.io/badge/AI_AGENTS-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF)
-![LLM](https://img.shields.io/badge/LLM_ORCHESTRATION-0D1117?style=for-the-badge&logo=anthropic&logoColor=FF006E)
-![ML](https://img.shields.io/badge/PREDICTIVE_ML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=F59E0B)
-![Chain](https://img.shields.io/badge/ON--CHAIN_ROUTING-0D1117?style=for-the-badge&logo=ethereum&logoColor=8B5CF6)
-![Algo](https://img.shields.io/badge/ALGO_TRADING-0D1117?style=for-the-badge&logo=bitcoin&logoColor=F59E0B)
-![Stripe](https://img.shields.io/badge/TREASURY_OPS-0D1117?style=for-the-badge&logo=stripe&logoColor=00F0FF)
-![AWS](https://img.shields.io/badge/MULTI--CLOUD-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![K8s](https://img.shields.io/badge/KUBERNETES-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Edge](https://img.shields.io/badge/EDGE_COMPUTE-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Kafka](https://img.shields.io/badge/SIGNAL_EXTRACTION-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FF006E)
-![GraphQL](https://img.shields.io/badge/MARKET_INTEL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![Vector](https://img.shields.io/badge/VECTOR_MEMORY-0D1117?style=for-the-badge&logo=pinecone&logoColor=00F0FF)
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=ffffff)
+![LLM](https://img.shields.io/badge/LLM_ORCHESTRATION-000000?style=for-the-badge&logo=anthropic&logoColor=ffffff)
+![ML](https://img.shields.io/badge/PREDICTIVE_ML-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+![Chain](https://img.shields.io/badge/ON--CHAIN-000000?style=for-the-badge&logo=ethereum&logoColor=ffffff)
+![Algo](https://img.shields.io/badge/ALGO_TRADING-000000?style=for-the-badge&logo=bitcoin&logoColor=ffffff)
+![Stripe](https://img.shields.io/badge/TREASURY_OPS-000000?style=for-the-badge&logo=stripe&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/MULTI--CLOUD-000000?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+![K8s](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![Edge](https://img.shields.io/badge/EDGE_COMPUTE-000000?style=for-the-badge&logo=cloudflare&logoColor=ffffff)
+![Kafka](https://img.shields.io/badge/EVENT_STREAMS-000000?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/MARKET_INTEL-000000?style=for-the-badge&logo=graphql&logoColor=ffffff)
+![Vector](https://img.shields.io/badge/VECTOR_MEMORY-000000?style=for-the-badge&logo=pinecone&logoColor=ffffff)
 
 </div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PRINCIPLES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> PRINCIPLES.core`
+
+`SIMPLICITY` &nbsp;—&nbsp; One system that replaces ten.
+`AUTONOMY` &nbsp;—&nbsp; Humans set direction. Machines execute.
+`SPEED` &nbsp;—&nbsp; Ship decisions in milliseconds, not quarters.
+`LEVERAGE` &nbsp;—&nbsp; Every line of code compounds across the empire.
+`INEVITABILITY` &nbsp;—&nbsp; Build what the future requires, before it asks.
+
+<br/>
 
 ---
 
@@ -124,38 +178,16 @@
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=S8LLS&bg_color=0D1117&color=00F0FF&line=FF006E&point=8B5CF6&area=true&hide_border=true&custom_title=S8LLS%20%7C%20OPERATIONAL%20PULSE)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S8LLS&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=OPERATIONAL%20PULSE" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S8LLS&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&border_color=00F0FF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=S8LLS&theme=tokyonight&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&border=00F0FF" />
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S8LLS&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&border_color=00F0FF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S8LLS&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&include_all_commits=true&count_private=true&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=S8LLS&theme=black&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          OPERATIONS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> OPERATIONS.command`
-
-`S8LLS-Official` — Organization. Live deployments. Production systems.
-`S8LLS` — Operator. Research. Prototypes. Command line.
-
-<div align="center">
-
 <br/>
-
-[![S8LLS-Official](https://img.shields.io/badge/ORGANIZATION-S8LLS--Official-00F0FF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)](https://github.com/S8LLS-Official)
-[![S8LLS](https://img.shields.io/badge/OPERATOR-S8LLS-FF006E?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)](https://github.com/S8LLS)
-
-</div>
 
 ---
 
@@ -165,83 +197,116 @@
 
 ## `> EMPIRE_KPI.dashboard`
 
-```ansi
-┌──────────────────────────────────────────────────────────────────┐
-│  METRIC                    │  TARGET          │  HORIZON         │
-├──────────────────────────────────────────────────────────────────┤
-│  Autonomous Cashflows      │  ∞ / month       │  2026 → 2030     │
-│  Businesses Orchestrated   │  100+ nodes      │  2030            │
-│  Human-in-the-loop Ratio   │  < 1%            │  continuous      │
-│  Decision Latency          │  < 100ms         │  active          │
-│  Geographic Footprint      │  Borderless      │  now             │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       NEURAL PATHWAYS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> NEURAL_PATHWAYS.gif`
-
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/S8LLS/S8LLS/output/github-contribution-grid-snake-dark.svg)
+<table>
+<tr>
+<th align="left">METRIC</th>
+<th align="center">TARGET</th>
+<th align="center">HORIZON</th>
+</tr>
+<tr>
+<td align="left">Autonomous Cashflows</td>
+<td align="center"><code>∞ / month</code></td>
+<td align="center">2026 → 2030</td>
+</tr>
+<tr>
+<td align="left">Businesses Orchestrated</td>
+<td align="center"><code>100+ nodes</code></td>
+<td align="center">2030</td>
+</tr>
+<tr>
+<td align="left">Human-in-the-loop Ratio</td>
+<td align="center"><code>&lt; 1%</code></td>
+<td align="center">continuous</td>
+</tr>
+<tr>
+<td align="left">Decision Latency</td>
+<td align="center"><code>&lt; 100ms</code></td>
+<td align="center">active</td>
+</tr>
+<tr>
+<td align="left">Geographic Footprint</td>
+<td align="center"><code>borderless</code></td>
+<td align="center">now</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          TROPHIES                               -->
+<!--                          OPERATIONS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> TROPHIES.vault`
+## `> OPERATIONS.command`
+
+`S8LLS-Official` &nbsp;—&nbsp; Organization. Live deployments. Production systems.
+`S8LLS` &nbsp;—&nbsp; Operator. Research. Prototypes. Command line.
+
+<br/>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=S8LLS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
+[![Organization](https://img.shields.io/badge/ORGANIZATION-S8LLS--Official-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/S8LLS-Official)
+[![Operator](https://img.shields.io/badge/OPERATOR-S8LLS-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/S8LLS)
 
 </div>
+
+<br/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           CONTACT                               -->
+<!--                          TRANSMIT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `> TRANSMIT.channel`
 
-`INBOUND` — For serious operators and capital only.
-`RESPONSE` — Within 24h or never.
-`FORMAT` — Thesis first. Pitch second. Small talk: zero.
-
-<div align="center">
+`INBOUND` &nbsp;—&nbsp; For serious operators and capital only.
+`RESPONSE` &nbsp;—&nbsp; Within 24h or never.
+`FORMAT` &nbsp;—&nbsp; Thesis first. Pitch second. Small talk: zero.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/WEBSITE-S8LLS.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117)](#)
-[![Email](https://img.shields.io/badge/SECURE_CHANNEL-FF006E?style=for-the-badge&logo=protonmail&logoColor=ffffff&labelColor=0D1117)](mailto:contact@s8lls.com)
-[![Twitter](https://img.shields.io/badge/BROADCAST-8B5CF6?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0D1117)](#)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-F59E0B?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](#)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/WEBSITE-s8lls.com-FFFFFF?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=000000)](https://s8lls.com)
+[![Email](https://img.shields.io/badge/EMAIL-office@s8lls.com-FFFFFF?style=for-the-badge&logo=maildotru&logoColor=FFFFFF&labelColor=000000)](mailto:office@s8lls.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-S8LLS-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://www.linkedin.com/company/s8lls)
+[![GitHub](https://img.shields.io/badge/GITHUB-S8LLS-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/S8LLS)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ### `> core.doctrine`
 
-> **`AUTOMATE`** — the machine.
-> **`ORCHESTRATE`** — the empire.
-> **`COMPOUND`** — the future.
+<br/>
+
+**`AUTOMATE`** &nbsp;—&nbsp; the machine.
+
+**`ORCHESTRATE`** &nbsp;—&nbsp; the empire.
+
+**`COMPOUND`** &nbsp;—&nbsp; the future.
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
+<sub>`S8LLS  //  autonomous by design  ·  sovereign by default  ·  infinite by intent`</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-
-<sub>`S8LLS // autonomous by design · sovereign by default · infinite by intent`</sub>
+<sub>© 2026 · S8LLS · s8lls.com</sub>
 
 </div>

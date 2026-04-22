@@ -103,6 +103,46 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SALES LOOP ARCHITECTURE                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> SALES_LOOP.architecture`
+
+Deep-dive into the **S8LLS Sales Engine** — the active node of the stack.
+Minimal system for structuring and automating sales execution.
+
+<br/>
+
+<div align="center">
+
+```
+LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
+                                                          │
+                                                          ▼
+                                                      (loop back)
+```
+
+</div>
+
+<br/>
+
+`LEAD INTAKE.` Forms. Scraping. Distributed network feeds.
+`QUALIFICATION.` Call center filtering and scoring.
+`EXECUTION.` Sales team closes qualified signal.
+`FEEDBACK LOOP.` Outcomes fed back into scoring and intake.
+`OPTIMIZATION.` System tunes itself. No human tuning.
+
+<br/>
+
+`NOW.` Structured execution across human operators.
+`NEXT.` Full autonomy layer (Jarvin integration).
+`HORIZON.` Self-optimizing loop with zero manual intervention.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          SIGNAL METRICS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 

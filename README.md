@@ -108,7 +108,7 @@
 
 ## `> SALES_LOOP.architecture`
 
-Deep-dive into the **S8LLS Sales Engine** — the active node of the stack.
+Deep-dive into the **S8LLS Sales Engine**. The active node of the stack.
 Minimal system for structuring and automating sales execution.
 
 <br/>

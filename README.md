@@ -306,7 +306,7 @@ LEAD  →  QUALIFY  →  CALL  →  CLOSE  →  FEEDBACK  →  OPTIMIZE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S8LLS&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=OPERATIONAL%20PULSE" width="100%"/>
+<img src="./pulse.svg" width="100%" alt="Operational Pulse"/>
 
 </div>
 
